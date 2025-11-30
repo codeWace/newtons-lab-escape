@@ -27,4 +27,3 @@ Guide the mouse through multiple lab levels, collect items, and avoid falling ha
 
 **Wajiha Tasaduq** ([GitHub: codeWace](https://github.com/codeWace))
 
-**Wajiha Tasaduq** ([GitHub: codeWace](https://github.com/codeWace))
