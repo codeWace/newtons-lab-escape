@@ -11,6 +11,9 @@ Guide the mouse through multiple lab levels, collect items, and avoid falling ha
 - Pixel-style fonts for retro game feel
 - Replayable with varied challenges
 
+Assets & Art:
+All the sprites and UI elements were hand-drawn by me. All 3 level backgrounds were generated using AI for prototyping purposes. All assets are used for educational and non-commercial purposes.
+
 ## How to Run
 
 1. Install [Python 3.12+](https://www.python.org/)  
