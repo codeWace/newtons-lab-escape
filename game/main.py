@@ -59,9 +59,9 @@ hazards_imgs = {
 
 # Backgrounds per level
 bg_files = {
-    1: "lab_bg.jpg",
-    2: "lab2_bg.jpg",
-    3: "lab3_bg.jpg"
+    1: "lab_bg.png",
+    2: "lab2_bg.png",
+    3: "lab3_bg.png"
 }
 
 # --- Player setup ---
