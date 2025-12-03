@@ -14,6 +14,9 @@ Guide the mouse through multiple lab levels, collect items, and avoid falling ha
 ## Assets & Art:
 - All the sprites and UI elements were hand-drawn by me. All 3 level backgrounds were generated using AI for prototyping purposes.
 All assets are used for educational and non-commercial purposes.
+- Font: Press Start 2P by The Press Start 2P Project Authors (CodeMan38)
+  Licensed under the SIL Open Font License 1.1
+  License file included as `assets/fonts/OFL.txt`
 
 ## How to Run
 
