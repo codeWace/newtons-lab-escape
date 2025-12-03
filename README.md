@@ -14,9 +14,7 @@ Guide the mouse through multiple lab levels, collect items, and avoid falling ha
 ## Assets & Art:
 - All the sprites and UI elements were hand-drawn by me. All 3 level backgrounds were generated using AI for prototyping purposes.
 All assets are used for educational and non-commercial purposes.
-- Font: Minecraft.ttf (used for in-game text)
-  Author/Source: Unknown / Minecraft Font
-  License: Not provided with the file
+- Font: Minecraft.ttf (used for in-game text), Author/Source: Unknown / Minecraft Font, License: Not provided with the file.
 
 ## How to Run
 
