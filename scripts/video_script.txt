@@ -1,3 +1,0 @@
-Scene 1: Intro
-Voiceover: 'What if I coded gravity... to understand Newton’s laws?'
-Dino: 'Am I the apple now?'

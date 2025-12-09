@@ -1,0 +1,50 @@
+# --------------------
+# Python cache files
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual environments
+# --------------------
+venv/
+env/
+ENV/
+
+# --------------------
+# System files
+# --------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --------------------
+# IDE/editor folders
+# --------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.venv/
+
+# --------------------
+# Temporary or backup files
+# --------------------
+*.bak
+*.swp
+*.tmp
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Optional: ignore compiled binaries
+# --------------------
+*.exe
+*.dll
+*.so
+*.dylib
